@@ -1,0 +1,6 @@
+/incremental_db/
+/db/
+/output_files/
+*.stp
+*.qws
+*.bak
